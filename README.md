@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thr10en4
+- 👋 Hi, I’m Dam
 - 👀 I’m interested in cybersec, infosec, learning, cats, birdwatching, photography, cycling
 - 🌱 I’m currently learning cybersecurity stuff (there's a lot)
 - 💞️ I’m looking to collaborate on anything that would allow me to expand my current knowledge
