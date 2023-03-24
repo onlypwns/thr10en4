@@ -1,7 +1,12 @@
- 👋 Hi, I’m Dam
-- interested in cybersecurity, infosec, OSINT, privacy, and data analytics
+  ,#####,
+ #_   _#
+ |a ` `a|
+ |  u  |
+ \  =  /
+  |\_/|
+ //   \\
+/' ` `' `\
 
-<!---
-thr10en4/thr10en4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+interested in cybersecurity, infosec, OSINT, privacy, and data analytics
+
+
