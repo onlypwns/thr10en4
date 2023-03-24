@@ -1,12 +1,7 @@
-  ,#####,
- #_   _#
- |a ` `a|
- |  u  |
- \  =  /
-  |\_/|
- //   \\
-/' ` `' `\
+`Lasciate ogne speranza, voi ch' intrate`
 
-interested in cybersecurity, infosec, OSINT, privacy, and data analytics
+passsionate learner 
+cybersecurity, infosec, OSINT, privacy,data analytics
+
 
 
